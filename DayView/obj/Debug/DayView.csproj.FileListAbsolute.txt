@@ -1,0 +1,5 @@
+F:\Projects\Calendar\DayView\bin\Debug\Calendar.DayView.dll
+F:\Projects\Calendar\DayView\bin\Debug\Calendar.DayView.pdb
+F:\Projects\Calendar\DayView\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Calendar\DayView\obj\Debug\Calendar.DayView.dll
+F:\Projects\Calendar\DayView\obj\Debug\Calendar.DayView.pdb

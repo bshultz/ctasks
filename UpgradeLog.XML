@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Calendar">
+</Property><Property Name="Solution File" Value="C:\projects\taskscheduler\Calendar_1.0\Calendar.sln">
+</Property><Property Name="Date" Value="Thursday, June 21, 2012">
+</Property><Property Name="Time" Value="11:10 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Calendar.sln" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\Calendar.sln">
+</Event><Event ErrorLevel="0" Project="CalendarTest" Source="Calendar\CalendarTest.csproj" Description="Project file successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\Calendar\CalendarTest.csproj">
+</Event><Event ErrorLevel="0" Project="CalendarTest" Source="Calendar\Form1.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\Calendar\Form1.cs">
+</Event><Event ErrorLevel="0" Project="CalendarTest" Source="Calendar\Form1.Designer.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\Calendar\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CalendarTest" Source="Calendar\GDITest.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\Calendar\GDITest.cs">
+</Event><Event ErrorLevel="0" Project="CalendarTest" Source="Calendar\Program.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\Calendar\Program.cs">
+</Event><Event ErrorLevel="0" Project="CalendarTest" Source="Calendar\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\Calendar\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CalendarTest" Source="Calendar\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\Calendar\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CalendarTest" Source="Calendar\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\Calendar\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CalendarTest" Source="Calendar\Properties\Settings.settings" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\Calendar\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CalendarTest" Source="Calendar\Form1.resx" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\Calendar\Form1.resx">
+</Event><Event ErrorLevel="0" Project="CalendarTest" Source="Calendar\Properties\Resources.resx" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\Calendar\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CalendarTest" Source="Calendar\CalendarTest.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CalendarTest" Source="Calendar\CalendarTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Calendar.csproj" Description="Project file successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\Calendar.csproj">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Appointment\AppointmentSlot.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\Appointment\AppointmentSlot.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Appointment\AppointmentSlotDuration.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\Appointment\AppointmentSlotDuration.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Appointment\iAppointment.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\Appointment\iAppointment.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Properties\CalendarResources.Designer.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\Properties\CalendarResources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\CalendarStorage\iCalendarStorage.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\CalendarStorage\iCalendarStorage.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Renderer\AbstractRenderer.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\Renderer\AbstractRenderer.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Appointment\Appointment.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\Appointment\Appointment.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Appointment\AppointmentEventArgs.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\Appointment\AppointmentEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Appointment\AppointmentHieghtDrawMode.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\Appointment\AppointmentHieghtDrawMode.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\DayView.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\DayView.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\ViewTools\DrawTool.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\ViewTools\DrawTool.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\ViewTools\ITool.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\ViewTools\ITool.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Appointment\NewAppointmentEvent.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\Appointment\NewAppointmentEvent.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Renderer\Office12Renderer.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\Renderer\Office12Renderer.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Renderer\Office11Renderer.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\Renderer\Office11Renderer.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Appointment\ResolveAppointmentsEvent.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\Appointment\ResolveAppointmentsEvent.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\ViewTools\SelectionType.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\ViewTools\SelectionType.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\ViewTools\SelectionTool.cs" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\ViewTools\SelectionTool.cs">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Resources\LockedAppointment.png" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\Resources\LockedAppointment.png">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Resources\recurring.png" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\Resources\recurring.png">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Properties\CalendarResources.resx" Description="File successfully backed up as C:\projects\taskscheduler\Calendar_1.0\Backup\DayView\Properties\CalendarResources.resx">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Calendar.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Calendar" Source="DayView\Calendar.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Calendar.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Calendar.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CalendarTest" Source="Calendar\CalendarTest.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Calendar" Source="DayView\Calendar.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

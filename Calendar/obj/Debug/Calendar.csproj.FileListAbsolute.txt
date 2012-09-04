@@ -1,0 +1,12 @@
+F:\Projects\Calendar\Calendar\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Calendar\Calendar\obj\Debug\Calendar.Form1.resources
+F:\Projects\Calendar\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+F:\Projects\Calendar\Calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+F:\Projects\Calendar\Calendar\bin\Debug\Calendar.exe
+F:\Projects\Calendar\Calendar\bin\Debug\Calendar.pdb
+F:\Projects\Calendar\Calendar\bin\Debug\Calendar.DayView.dll
+F:\Projects\Calendar\Calendar\bin\Debug\Calendar.DayView.pdb
+F:\Projects\Calendar\Calendar\obj\Debug\Calendar.exe
+F:\Projects\Calendar\Calendar\obj\Debug\Calendar.pdb
+E:\Projects\Calendar\Calendar\obj\Debug\Calendar.exe
+E:\Projects\Calendar\Calendar\obj\Debug\Calendar.pdb
