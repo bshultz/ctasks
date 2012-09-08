@@ -29,3 +29,11 @@ C:\projects\taskscheduler\Calendar_1.0\DayView\obj\Debug\GenerateResource.read.1
 C:\projects\taskscheduler\Calendar_1.0\DayView\obj\Debug\GenerateResource.write.1.tlog
 C:\projects\taskscheduler\Calendar_1.0\DayView\obj\Debug\Calendar.DayView.dll
 C:\projects\taskscheduler\Calendar_1.0\DayView\obj\Debug\Calendar.DayView.pdb
+C:\Users\jrhea\Documents\GitHub\ctasks\DayView\bin\Debug\Calendar.DayView.dll
+C:\Users\jrhea\Documents\GitHub\ctasks\DayView\bin\Debug\Calendar.DayView.pdb
+C:\Users\jrhea\Documents\GitHub\ctasks\DayView\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jrhea\Documents\GitHub\ctasks\DayView\obj\Debug\Calendar.Properties.CalendarResources.resources
+C:\Users\jrhea\Documents\GitHub\ctasks\DayView\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\jrhea\Documents\GitHub\ctasks\DayView\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\jrhea\Documents\GitHub\ctasks\DayView\obj\Debug\Calendar.DayView.dll
+C:\Users\jrhea\Documents\GitHub\ctasks\DayView\obj\Debug\Calendar.DayView.pdb

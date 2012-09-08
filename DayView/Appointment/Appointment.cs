@@ -1,15 +1,9 @@
 using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Drawing;
-using System.Drawing.Drawing2D;
-using System.Windows.Forms;
-using System.Diagnostics;
-using System.Data;
 
 namespace Calendar
 {
-	public class Appointment : iAppointment
+	public class Appointment : IAppointment
     {
 
 		#region " Private Fields "
@@ -167,7 +161,7 @@ namespace Calendar
 		}
 		#endregion
 
-		#region iAppointment Members
+		#region IAppointment Members
 		public DateTime StartDate
 		{
 			get

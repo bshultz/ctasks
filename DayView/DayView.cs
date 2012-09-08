@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.Drawing;
@@ -1112,7 +1113,7 @@ namespace Calendar
 			e.Graphics.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.AntiAlias;
 
 			// resolve appointments on visible date range.
-			ResolveAppointmentsEventArgs args = new ResolveAppointmentsEventArgs(this.StartDate, this.StartDate.AddDays(daysToShow));
+			var args = new ResolveAppointmentsEventArgs(this.StartDate, this.StartDate.AddDays(daysToShow));
 			ResolveAppointments(args);
 
 			using (SolidBrush backBrush = new SolidBrush(renderer.BackColor))
@@ -1353,9 +1354,10 @@ namespace Calendar
             {
                 List<string> groups = new List<string>();
 
-                foreach (Appointment app in appointments)
-                    if (!groups.Contains(app.Group))
-                        groups.Add(app.Group);
+                foreach (Appointment app in appointments.Where(app => !groups.Contains(app.Group)))
+                {
+                    groups.Add(app.Group);
+                }
 
                 Rectangle rect2 = rect;
                 rect2.Width = rect2.Width / groups.Count;
@@ -1541,8 +1543,7 @@ namespace Calendar
 
                     if (layout == null)
                     {
-                        layout = new HalfHourLayout();
-                        layout.Appointments = new Appointment[20];
+                        layout = new HalfHourLayout {Appointments = new Appointment[20]};
                         appLayouts[halfHour] = layout;
                     }
 
@@ -1550,12 +1551,11 @@ namespace Calendar
 
                     layout.Count++;
 
-                    List<string> groups = new List<string>();
+                    var groups = new List<string>();
 
-                    foreach (Appointment app2 in layout.Appointments)
+                    foreach (var app2 in layout.Appointments.Where(app2 => (app2 != null) && (!groups.Contains(app2.Group))))
                     {
-                        if ((app2 != null) && (!groups.Contains(app2.Group)))
-                            groups.Add(app2.Group);
+                        groups.Add(app2.Group);
                     }
 
                     layout.Groups = groups;

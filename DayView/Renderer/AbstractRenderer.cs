@@ -187,13 +187,14 @@ namespace Calendar
 		public static GraphicsPath CreateRoundRectangle(Rectangle rectangle)
 		{
 			int radius = 8;
+            int l = rectangle.Left;
+            int t = rectangle.Top;
+            int w = rectangle.Width;
+            int h = rectangle.Height;
+            int d = radius << 1;
 
-			GraphicsPath path = new GraphicsPath();
-			int l = rectangle.Left;
-			int t = rectangle.Top;
-			int w = rectangle.Width;
-			int h = rectangle.Height;
-			int d = radius << 1;
+
+			var path = new GraphicsPath();
 			path.AddArc(l, t, d, d, 180, 90); // topleft
 			path.AddLine(l + radius, t, l + w - radius, t); // top
 			path.AddArc(l + w - d, t, d, d, 270, 90); // topright
@@ -209,13 +210,13 @@ namespace Calendar
 		public static GraphicsPath CreateGripRectangle(Rectangle rectangle)
 		{
 			int radius = rectangle.Width;
-
-			GraphicsPath path = new GraphicsPath();
-			int l = rectangle.Left;
-			int t = rectangle.Top;
-			int w = rectangle.Width;
-			int h = rectangle.Height;
-			int d = radius << 1;
+            int l = rectangle.Left;
+            int t = rectangle.Top;
+            int w = rectangle.Width;
+            int h = rectangle.Height;
+            int d = radius << 1;
+			
+            var path = new GraphicsPath();
 			path.AddArc(l, t, d, d, 180, 90); // topleft
 			path.AddLine(l + w, t + radius, l + w, t + h - radius); // right
 			path.AddArc(l, t + h - d, d, d, 90, 90); // bottomleft

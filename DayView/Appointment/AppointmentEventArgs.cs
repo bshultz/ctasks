@@ -1,6 +1,4 @@
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Calendar
 {
@@ -8,14 +6,9 @@ namespace Calendar
     {
         public AppointmentEventArgs( Appointment appointment )
         {
-            m_Appointment = appointment;
+            Appointment = appointment;
         }
 
-        private Appointment m_Appointment;
-
-        public Appointment Appointment
-        {
-            get { return m_Appointment; }
-        }
+        public Appointment Appointment { get; private set; }
     }
 }

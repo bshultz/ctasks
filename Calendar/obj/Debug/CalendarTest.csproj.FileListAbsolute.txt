@@ -43,3 +43,17 @@ C:\projects\taskscheduler\Calendar_1.0\Calendar\bin\Debug\Calendar.DayView.pdb
 C:\projects\taskscheduler\Calendar_1.0\Calendar\bin\Debug\Microsoft.Win32.TaskScheduler.xml
 C:\projects\taskscheduler\Calendar_1.0\Calendar\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
 C:\projects\taskscheduler\Calendar_1.0\Calendar\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\jrhea\Documents\GitHub\ctasks\Calendar\obj\Debug\Calendar.exe
+C:\Users\jrhea\Documents\GitHub\ctasks\Calendar\obj\Debug\Calendar.pdb
+C:\Users\jrhea\Documents\GitHub\ctasks\Calendar\bin\Debug\Calendar.exe
+C:\Users\jrhea\Documents\GitHub\ctasks\Calendar\bin\Debug\Calendar.pdb
+C:\Users\jrhea\Documents\GitHub\ctasks\Calendar\bin\Debug\Calendar.DayView.dll
+C:\Users\jrhea\Documents\GitHub\ctasks\Calendar\bin\Debug\Calendar.DayView.pdb
+C:\Users\jrhea\Documents\GitHub\ctasks\Calendar\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\Users\jrhea\Documents\GitHub\ctasks\Calendar\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\jrhea\Documents\GitHub\ctasks\Calendar\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\jrhea\Documents\GitHub\ctasks\Calendar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jrhea\Documents\GitHub\ctasks\Calendar\obj\Debug\CalendarTest.Form1.resources
+C:\Users\jrhea\Documents\GitHub\ctasks\Calendar\obj\Debug\CalendarTest.Properties.Resources.resources
+C:\Users\jrhea\Documents\GitHub\ctasks\Calendar\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\jrhea\Documents\GitHub\ctasks\Calendar\obj\Debug\GenerateResource.write.1.tlog
